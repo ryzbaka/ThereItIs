@@ -1,6 +1,6 @@
 # boundingBoxLmao
 p5.js powered image annotation tool? idk I'm sleepy
-[Bounding Box Demo - press play](https://editor.p5js.org/hamza.ryzvy/sketches/sGSK2Bgly)
+[Bounding Box Demo - press play and click around in the gray square](https://editor.p5js.org/hamza.ryzvy/sketches/sGSK2Bgly)
 
 this graphics stuff took a while hahaha anyway its pretty late rn I'll add a way to store the coordinates of each bouding box into a json object
 and also actually be able to add images to the html probably done through some api endpoint idk (lets see)  and then I'll also have to add
