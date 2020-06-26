@@ -11,3 +11,7 @@ anymore goodnight.
 
 (also I have to figure out a way to adjust the canvas's size to the size of the image and set background to the image itself
 so that the bounding box coordinates actually make sense for annotation)
+
+
+LOg: the code was all made while being half asleep and listening to deadmau5 way too loud to stay awake. Why do it today> because i was
+felt like I had wasted the day an couldnt sleep hahahahaha.
