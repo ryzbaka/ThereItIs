@@ -8,7 +8,7 @@ p5.js powered image annotation tool for object detection models.
 ### Current Version
 ![screenshot](horsebbscrrenshot.PNG)
 
-##License
+## License
   
 MIT License
 
